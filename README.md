@@ -28,10 +28,24 @@ atc2scd({
 
 ## FlowCharts
 
+> index.js
+
 ![index](./index.js.svg)
+
+> get-rxcui-by-type.js
+
 ![getRxCUIByType](./lib/get-rxcui-by-type.js.svg)
+
+> get-rxcui.js
+
 ![getRxCUI](./lib/get-rxcui.js.svg)
+
+> get-related.js
+
 ![getRelated]('./lib/get-related.js.svg')
+
+> get-similar.js
+
 ![getSimilar]('./lib/get-similar.js.svg')
 
 ## Dependencies
