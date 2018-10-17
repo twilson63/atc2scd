@@ -30,6 +30,9 @@ atc2scd({
 
 ![index](./index.js.svg)
 ![getRxCUIByType](./lib/get-rxcui-by-type.js.svg)
+![getRxCUI](./lib/get-rxcui.js.svg)
+![getRelated]('./lib/get-related.js.svg')
+![getSimilar]('./lib/get-similar.js.svg')
 
 ## Dependencies
 
