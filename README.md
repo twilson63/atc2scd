@@ -42,11 +42,11 @@ atc2scd({
 
 > get-related.js
 
-![getRelated]('lib/get-related.js.svg')
+![getRelated](lib/get-related.js.svg)
 
 > get-similar.js
 
-![getSimilar]('lib/get-similar.js.svg')
+![getSimilar](lib/get-similar.js.svg)
 
 ## Dependencies
 
