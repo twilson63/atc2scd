@@ -1,7 +1,7 @@
 {
   "name": "atc2scd",
   "version": "1.0.0",
-  "description": "",
+  "description": "This module takes an ATC Code, Strength and Form and uses a the Dice's coefficient algorithm to find the Semantic Clinical Drug: https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*_test.js"
@@ -16,5 +16,17 @@
   },
   "devDependencies": {
     "tape": "^4.9.1"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilson63/atc2scd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twilson63/atc2scd/issues"
+  },
+  "homepage": "https://github.com/twilson63/atc2scd#readme"
 }
