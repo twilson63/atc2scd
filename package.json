@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "tape test/*_test.js",
-    "flowcharts": "js2flowchart index.js && js2flowchart lib/get-similar.js && js2flowchart lib/get-related.js && js2flowchart lib/get-rxcui.js && js2flowchart lib/get-rxcui-by-type.js"
+    "flowcharts": "js2flowchart index.js && js2flowchart lib/get-similar.js && js2flowchart lib/get-related.js && js2flowchart lib/get-rxcui.js && js2flowchart lib/get-rxcui-by-type.js",
+    "docs": "jsdoc2md index.js > docs/index.js.md && jsdoc2md lib/get-rxcui.js > docs/lib-rxcui.js.md && jsdoc2md lib/get-related.js > docs/lib-get-related.js.md && jsdoc2md lib/get-similar.js > docs/lib-get-similar.js.md && jsdoc2md lib/get-rxcui-by-type.js > docs/lib-get-rxcui-by-type.js.md"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +14,8 @@
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "js2flowchart": "^1.1.6",
+    "jsdoc": "^3.5.5",
+    "jsdoc-to-markdown": "^4.0.1",
     "ramda": "^0.25.0",
     "string-similarity": "^2.0.0"
   },

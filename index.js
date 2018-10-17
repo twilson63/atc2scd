@@ -12,13 +12,15 @@ const getSimilarDrug = (strength, form) => ({ name, drugs }) =>
  *
  * find Semantic Clinical Drug from atc code, strength, and form
  *
- * @param atcObj {atc:string, strength: string, form: string}
- * @returns {atc: string, strength: string, form: string, rxcui: string, name: string, rating: number }
+ * @param { object } - atc object {atc:string, strength: string, form: string}
+ * @returns { object } - {atc: string, strength: string, form: string, rxcui: string, name: string, rating: number }
  */
-module.exports = ({ atc, strength, form }) =>
+const findDrug = ({ atc, strength, form }) =>
   pipeP(
     getRxCUIByType, // get rxcui
     getRxCUI, // get ingredient object
     getRelatedDrugs, // get scd drugs
     getSimilarDrug(strength, form) // get best match scd drug
   )({ idType: "ATC", id: atc });
+
+module.exports = findDrug;

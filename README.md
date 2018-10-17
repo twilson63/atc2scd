@@ -26,6 +26,10 @@ atc2scd({
 });
 ```
 
+## Documentation
+
+- [Docs](docs)
+
 ## FlowCharts
 
 > index.js
