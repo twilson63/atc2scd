@@ -1,0 +1,393 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="577" height="926">
+                
+                <g>
+                   <rect x="50" y="65"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const stringSimilarity = require(&apos;string-similarity&apos;)</title>
+            <text x="65" y="85"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="85">const stringSimilarity = require(&apos;string-similarit...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="113.5"
+            width="264" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const {...} = require(&apos;ramda&apos;)</title>
+            <text x="65" y="133.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="133.5">const {...} = require(&apos;ramda&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="162"
+            width="84.6" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>compose</title>
+            <text x="102" y="182"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="182">compose</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="210.5"
+            width="53.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>map</title>
+            <text x="102" y="230.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="230.5">map</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="259"
+            width="61.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>prop</title>
+            <text x="102" y="279"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="279">prop</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="307.5"
+            width="61.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>find</title>
+            <text x="102" y="327.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="327.5">find</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="356"
+            width="76.8" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>equals</title>
+            <text x="102" y="376"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="376">equals</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="404.5"
+            width="84.6" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>toUpper</title>
+            <text x="102" y="424.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="424.5">toUpper</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="453"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>assoc</title>
+            <text x="102" y="473"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="473">assoc</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="501.5"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const drugNamesToUppercase = map(compose(toUpper, prop(&quot;name&quot;)))</title>
+            <text x="65" y="521.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="521.5">const drugNamesToUppercase = map(compose(toUpper, ...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="565"
+            width="237.2" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="565" x2="60" y2="595"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="277.2" y1="565" x2="277.2" y2="595"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>equalsName = (target) =&gt;</title>
+            <text x="75" y="585"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="585">equalsName = (target) =&gt;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="613.5"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="530.4" y1="623.5" x2="535.4" y2="623.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="530.4" y1="633.5" x2="535.4" y2="633.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M535.4, 617.5 L551.4, 628.5 L535.4, 639.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return compose(equals(target), toUpper, prop(&quot;name&quot;))</title>
+            <text x="102" y="633.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="633.5">return compose(equals(target), toUpper, prop(&quot;name...</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="50" y="677"
+            width="338.59999999999997" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="677" x2="60" y2="707"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="378.59999999999997" y1="677" x2="378.59999999999997" y2="707"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>module.exports = (drugText, drugs) =&gt;</title>
+            <text x="75" y="697"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="697">module.exports = (drugText, drugs) =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="725.5"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const matches = stringSimilarity.findBestMatch(toUpper(drugText), drugNamesToUppercase(drugs))</title>
+            <text x="102" y="745.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="745.5">const matches = stringSimilarity.findBestMatch(toU...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="774"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>let best = find(equalsName(matches.bestMatch.target), drugs)</title>
+            <text x="102" y="794"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="794">let best = find(equalsName(matches.bestMatch.targe...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="822.5"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>best = assoc(&apos;rating&apos;, matches.bestMatch.rating, best)</title>
+            <text x="102" y="842.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="842.5">best = assoc(&apos;rating&apos;, matches.bestMatch.rating, b...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="87" y="871"
+            width="115.80000000000001" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="202.8" y1="881" x2="207.8" y2="881"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="202.8" y1="891" x2="207.8" y2="891"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M207.8, 875 L223.8, 886 L207.8, 897 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return best</title>
+            <text x="102" y="891"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="891">return best</tspan>
+            </text>
+                
+            </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="216.6" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>Program: source module</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 76 Q25 80
+                29 80
+                L42 80 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 77 L50, 80 L42, 83 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 124.5 Q25 128.5
+                29 128.5
+                L42 128.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 125.5 L50, 128.5 L42, 131.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 143.5 L68.5 173 Q68.5 177
+                72.5 177
+                L87 177 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M68.5, 143.5 L68.5 221.5 Q68.5 225.5
+                72.5 225.5
+                L87 225.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M68.5, 143.5 L68.5 270 Q68.5 274
+                72.5 274
+                L87 274 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M68.5, 143.5 L68.5 318.5 Q68.5 322.5
+                72.5 322.5
+                L87 322.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M68.5, 143.5 L68.5 367 Q68.5 371
+                72.5 371
+                L87 371 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M68.5, 143.5 L68.5 415.5 Q68.5 419.5
+                72.5 419.5
+                L87 419.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M68.5, 143.5 L68.5 464 Q68.5 468
+                72.5 468
+                L87 468 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 512.5 Q25 516.5
+                29 516.5
+                L42 516.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 513.5 L50, 516.5 L42, 519.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 576 Q25 580
+                29 580
+                L42 580 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 577 L50, 580 L42, 583 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 595 L68.5 624.5 Q68.5 628.5
+                72.5 628.5
+                L79 628.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 625.5 L87, 628.5 L79, 631.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 688 Q25 692
+                29 692
+                L42 692 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 689 L50, 692 L42, 695 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 707 L68.5 736.5 Q68.5 740.5
+                72.5 740.5
+                L79 740.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 737.5 L87, 740.5 L79, 743.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 707 L68.5 785 Q68.5 789
+                72.5 789
+                L79 789 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 786 L87, 789 L79, 792 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 707 L68.5 833.5 Q68.5 837.5
+                72.5 837.5
+                L79 837.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 834.5 L87, 837.5 L79, 840.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 707 L68.5 882 Q68.5 886
+                72.5 886
+                L79 886 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 883 L87, 886 L79, 889 Z" 
+        fill="#333" />
+            </g>
+            </svg>

@@ -6,29 +6,35 @@ This module takes an ATC Code, Strength and Form and uses a the Dice's coefficie
 
 `npm install atc2scd`
 
-``` js
-const atc2scd = require('atc2scd')
+```js
+const atc2scd = require("atc2scd");
 atc2scd({
-  atc: 'N03AX12',
-  strength: '100 mg',
-  form: 'Capsule, hard'
+  atc: "N03AX12",
+  strength: "100 mg",
+  form: "Capsule, hard"
 }).then(scd => {
   assert.deepEquals(scd, {
-    language: "ENG",
-    name: "gabapentin 100 MG Oral Capsule",
+    rxcui: "853201",
+    name: "24 HR quetiapine 50 MG Extended Release Oral Tablet",
+    synonym: "quetiapine 50 MG 24 HR Extended Release Oral Tablet",
     tty: "SCD",
-    rxcui: "310430",
+    language: "ENG",
     suppress: "N",
-    synonym: "",
-    umlscui: "C0977057"
-  })
-})
+    umlscui: "C2702061",
+    rating: 0.696969696969697
+  });
+});
 ```
+
+## FlowCharts
+
+![index](./index.js.svg)
+![getRxCUIByType](./lib/get-rxcui-by-type.js.svg)
 
 ## Dependencies
 
 Uses RXNorm REST API - https://rxnav.nlm.nih.gov/REST
 
-## License 
+## License
 
 MIT

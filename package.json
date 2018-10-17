@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
+    "js2flowchart": "^1.1.6",
     "ramda": "^0.25.0",
     "string-similarity": "^2.0.0"
   },

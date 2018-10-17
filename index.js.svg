@@ -1,0 +1,581 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="614" height="1232">
+                
+                <g>
+                   <rect x="50" y="65"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const getRxCUIByType = require(&apos;./lib/get-rxcui-by-type&apos;)</title>
+            <text x="65" y="85"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="85">const getRxCUIByType = require(&apos;./lib/get-rxcui-by...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="113.5"
+            width="365.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const getRxCUI = require(&apos;./lib/get-rxcui&apos;)</title>
+            <text x="65" y="133.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="133.5">const getRxCUI = require(&apos;./lib/get-rxcui&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="162"
+            width="396.59999999999997" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const getRelated = require(&apos;./lib/get-related&apos;)</title>
+            <text x="65" y="182"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="182">const getRelated = require(&apos;./lib/get-related&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="210.5"
+            width="396.59999999999997" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const getSimilar = require(&apos;./lib/get-similar&apos;)</title>
+            <text x="65" y="230.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="230.5">const getSimilar = require(&apos;./lib/get-similar&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="259"
+            width="264" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const {...} = require(&apos;ramda&apos;)</title>
+            <text x="65" y="279"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="279">const {...} = require(&apos;ramda&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="307.5"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>pipeP</title>
+            <text x="102" y="327.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="327.5">pipeP</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="371"
+            width="354.2" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="371" x2="60" y2="401"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="394.2" y1="371" x2="394.2" y2="401"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>getRelatedDrugs = ({
+  name,
+  rxcui
+}) =&gt;</title>
+            <text x="75" y="391"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="391">getRelatedDrugs = ({
+  name,
+  rxcui
+}) =&gt;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="419.5"
+            width="162.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="249.6" y1="429.5" x2="254.6" y2="429.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="249.6" y1="439.5" x2="254.6" y2="439.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M254.6, 423.5 L270.6, 434.5 L254.6, 445.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return .then(*())</title>
+            <text x="102" y="439.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="439.5">return .then(*())</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="124" y="468"
+            width="128" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="134" y1="468" x2="134" y2="498"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="242" y1="468" x2="242" y2="498"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>(drugs) =&gt;</title>
+            <text x="149" y="488"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="149" y="488">(drugs) =&gt;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="161" y="516.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="269" y1="526.5" x2="274" y2="526.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="269" y1="536.5" x2="274" y2="536.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M274, 520.5 L290, 531.5 L274, 542.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return {*}</title>
+            <text x="176" y="536.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="536.5">return {*}</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="198" y="565"
+            width="61.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>name</title>
+            <text x="213" y="585"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="213" y="585">name</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="198" y="613.5"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>drugs</title>
+            <text x="213" y="633.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="213" y="633.5">drugs</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="677"
+            width="330.8" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="677" x2="60" y2="707"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="370.8" y1="677" x2="370.8" y2="707"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>getSimilarDrug = (strength, form) =&gt;</title>
+            <text x="75" y="697"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="697">getSimilarDrug = (strength, form) =&gt;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="725.5"
+            width="248.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="335.4" y1="735.5" x2="340.4" y2="735.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="335.4" y1="745.5" x2="340.4" y2="745.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M340.4, 729.5 L356.4, 740.5 L340.4, 751.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return ({
+  name,
+  drugs
+}) =&gt;</title>
+            <text x="102" y="745.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="745.5">return ({
+  name,
+  drugs
+}) =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="774"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>name</title>
+            <text x="139" y="794"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="794">name</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="822.5"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>strength</title>
+            <text x="139" y="842.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="842.5">strength</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="871"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>form</title>
+            <text x="139" y="891"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="891">form</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="124" y="919.5"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="567.4" y1="929.5" x2="572.4" y2="929.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="567.4" y1="939.5" x2="572.4" y2="939.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M572.4, 923.5 L588.4, 934.5 L572.4, 945.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return getSimilar(`${name} ${strength} ${form}`, drugs)</title>
+            <text x="139" y="939.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="939.5">return getSimilar(`${name} ${strength} ${form}`, d...</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="50" y="983"
+            width="432.2" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="983" x2="60" y2="1013"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="472.2" y1="983" x2="472.2" y2="1013"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>module.exports = ({
+  atc,
+  strength,
+  form
+}) =&gt;</title>
+            <text x="75" y="1003"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="1003">module.exports = ({
+  atc,
+  strength,
+  form
+}) =...</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="1031.5"
+            width="435.59999999999997" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="522.5999999999999" y1="1041.5" x2="527.5999999999999" y2="1041.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="522.5999999999999" y1="1051.5" x2="527.5999999999999" y2="1051.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M527.5999999999999, 1035.5 L543.5999999999999, 1046.5 L527.5999999999999, 1057.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return pipeP(getRxCUIByType, // get rxcui
+getRxCUI, // get ingredient object
+getRelatedDrugs, // get scd drugs
+getSimilarDrug(strength, form) // get best match scd drug
+)({*})</title>
+            <text x="102" y="1051.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1051.5">return pipeP(getRxCUIByType, // get rxcui
+getRxCUI...</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="1080"
+            width="53.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>{*}</title>
+            <text x="139" y="1100"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1100">{*}</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1128.5"
+            width="131.39999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>idType: &quot;ATC&quot;</title>
+            <text x="176" y="1148.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1148.5">idType: &quot;ATC&quot;</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1177"
+            width="84.6" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>id: atc</title>
+            <text x="176" y="1197"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1197">id: atc</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="216.6" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>Program: source module</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 76 Q25 80
+                29 80
+                L42 80 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 77 L50, 80 L42, 83 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 124.5 Q25 128.5
+                29 128.5
+                L42 128.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 125.5 L50, 128.5 L42, 131.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 173 Q25 177
+                29 177
+                L42 177 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 174 L50, 177 L42, 180 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 221.5 Q25 225.5
+                29 225.5
+                L42 225.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 222.5 L50, 225.5 L42, 228.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 270 Q25 274
+                29 274
+                L42 274 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 271 L50, 274 L42, 277 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 289 L68.5 318.5 Q68.5 322.5
+                72.5 322.5
+                L87 322.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 382 Q25 386
+                29 386
+                L42 386 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 383 L50, 386 L42, 389 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 401 L68.5 430.5 Q68.5 434.5
+                72.5 434.5
+                L79 434.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 431.5 L87, 434.5 L79, 437.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 449.5 L105.5 479 Q105.5 483
+                109.5 483
+                L116 483 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 480 L124, 483 L116, 486 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 498 L142.5 527.5 Q142.5 531.5
+                146.5 531.5
+                L153 531.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 528.5 L161, 531.5 L153, 534.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M179.5, 546.5 L179.5 576 Q179.5 580
+                183.5 580
+                L198 580 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M179.5, 546.5 L179.5 624.5 Q179.5 628.5
+                183.5 628.5
+                L198 628.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 688 Q25 692
+                29 692
+                L42 692 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 689 L50, 692 L42, 695 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 707 L68.5 736.5 Q68.5 740.5
+                72.5 740.5
+                L79 740.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 737.5 L87, 740.5 L79, 743.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 755.5 L105.5 785 Q105.5 789
+                109.5 789
+                L116 789 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 786 L124, 789 L116, 792 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 755.5 L105.5 833.5 Q105.5 837.5
+                109.5 837.5
+                L116 837.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 834.5 L124, 837.5 L116, 840.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 755.5 L105.5 882 Q105.5 886
+                109.5 886
+                L116 886 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 883 L124, 886 L116, 889 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 755.5 L105.5 930.5 Q105.5 934.5
+                109.5 934.5
+                L116 934.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 931.5 L124, 934.5 L116, 937.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 994 Q25 998
+                29 998
+                L42 998 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 995 L50, 998 L42, 1001 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1013 L68.5 1042.5 Q68.5 1046.5
+                72.5 1046.5
+                L79 1046.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1043.5 L87, 1046.5 L79, 1049.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 1061.5 L105.5 1091 Q105.5 1095
+                109.5 1095
+                L116 1095 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 1092 L124, 1095 L116, 1098 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 1110 L142.5 1139.5 Q142.5 1143.5
+                146.5 1143.5
+                L161 1143.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1110 L142.5 1188 Q142.5 1192
+                146.5 1192
+                L161 1192 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            </svg>

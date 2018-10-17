@@ -1,0 +1,440 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="630" height="975">
+                
+                <g>
+                   <rect x="50" y="65"
+            width="240.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>require(&apos;isomorphic-fetch&apos;)</title>
+            <text x="65" y="85"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="85">require(&apos;isomorphic-fetch&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="113.5"
+            width="264" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const {...} = require(&apos;ramda&apos;)</title>
+            <text x="65" y="133.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="133.5">const {...} = require(&apos;ramda&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="162"
+            width="84.6" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>invoker</title>
+            <text x="102" y="182"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="182">invoker</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="210.5"
+            width="287.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const toJSON = invoker(0, &apos;json&apos;)</title>
+            <text x="65" y="230.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="230.5">const toJSON = invoker(0, &apos;json&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="274"
+            width="174.8" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="274" x2="60" y2="304"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="214.8" y1="274" x2="214.8" y2="304"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>url = (rxcui) =&gt;</title>
+            <text x="75" y="294"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="294">url = (rxcui) =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="322.5"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>rxcui</title>
+            <text x="102" y="342.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="342.5">rxcui</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="386"
+            width="260.6" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="386" x2="60" y2="416"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="300.6" y1="386" x2="300.6" y2="416"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>module.exports = (rxcui) =&gt;</title>
+            <text x="75" y="406"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="406">module.exports = (rxcui) =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="434.5"
+            width="162.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>fetch(url(rxcui))</title>
+            <text x="102" y="454.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="454.5">fetch(url(rxcui))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="483"
+            width="131.39999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>.then(toJSON)</title>
+            <text x="102" y="503"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="503">.then(toJSON)</tspan>
+            </text>
+                   <circle cx="93" cy="507" r="4"
+        style="fill:#ede7f6; stroke:#444; stroke-width:1" />
+                   
+                </g>
+                <g>
+                   <rect x="87" y="531.5"
+            width="108" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>.then(*())</title>
+            <text x="102" y="551.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="551.5">.then(*())</tspan>
+            </text>
+                   <circle cx="93" cy="555.5" r="4"
+        style="fill:#ede7f6; stroke:#444; stroke-width:1" />
+                   
+                </g>
+            <g>
+                <rect x="124" y="580"
+            width="174.8" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="134" y1="580" x2="134" y2="610"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="288.8" y1="580" x2="288.8" y2="610"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>({
+  idGroup
+}) =&gt;</title>
+            <text x="149" y="600"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="149" y="600">({
+  idGroup
+}) =&gt;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="161" y="628.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="269" y1="638.5" x2="274" y2="638.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="269" y1="648.5" x2="274" y2="648.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M274, 632.5 L290, 643.5 L274, 654.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return {*}</title>
+            <text x="176" y="648.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="648.5">return {*}</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="198" y="677"
+            width="170.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>name: idGroup.name</title>
+            <text x="213" y="697"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="213" y="697">name: idGroup.name</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="198" y="725.5"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>rxcui</title>
+            <text x="213" y="745.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="213" y="745.5">rxcui</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="87" y="774"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="257.4" y1="784" x2="262.4" y2="784"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="257.4" y1="794" x2="262.4" y2="794"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M262.4, 778 L278.4, 789 L262.4, 800 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return .catch(*())</title>
+            <text x="102" y="794"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="794">return .catch(*())</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="124" y="822.5"
+            width="112.4" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="134" y1="822.5" x2="134" y2="852.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="226.4" y1="822.5" x2="226.4" y2="852.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>(err) =&gt;</title>
+            <text x="149" y="842.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="149" y="842.5">(err) =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="161" y="871"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(&quot;ERROR with getRxCUI -&gt; &quot; + err.message)</title>
+            <text x="176" y="891"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="891">console.log(&quot;ERROR with getRxCUI -&gt; &quot; + err.messag...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="161" y="919.5"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="237.8" y1="929.5" x2="242.8" y2="929.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="237.8" y1="939.5" x2="242.8" y2="939.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M242.8, 923.5 L258.8, 934.5 L242.8, 945.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return</title>
+            <text x="176" y="939.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="939.5">return</tspan>
+            </text>
+                
+            </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="216.6" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>Program: source module</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 76 Q25 80
+                29 80
+                L42 80 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 77 L50, 80 L42, 83 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 124.5 Q25 128.5
+                29 128.5
+                L42 128.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 125.5 L50, 128.5 L42, 131.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 143.5 L68.5 173 Q68.5 177
+                72.5 177
+                L87 177 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 221.5 Q25 225.5
+                29 225.5
+                L42 225.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 222.5 L50, 225.5 L42, 228.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 285 Q25 289
+                29 289
+                L42 289 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 286 L50, 289 L42, 292 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 304 L68.5 333.5 Q68.5 337.5
+                72.5 337.5
+                L79 337.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 334.5 L87, 337.5 L79, 340.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 397 Q25 401
+                29 401
+                L42 401 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 398 L50, 401 L42, 404 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 416 L68.5 445.5 Q68.5 449.5
+                72.5 449.5
+                L79 449.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 446.5 L87, 449.5 L79, 452.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 416 L68.5 494 Q68.5 498
+                72.5 498
+                L79 498 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 495 L87, 498 L79, 501 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 416 L68.5 542.5 Q68.5 546.5
+                72.5 546.5
+                L79 546.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 543.5 L87, 546.5 L79, 549.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 561.5 L105.5 591 Q105.5 595
+                109.5 595
+                L124 595 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 610 L142.5 639.5 Q142.5 643.5
+                146.5 643.5
+                L153 643.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 640.5 L161, 643.5 L153, 646.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M179.5, 658.5 L179.5 688 Q179.5 692
+                183.5 692
+                L198 692 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M179.5, 658.5 L179.5 736.5 Q179.5 740.5
+                183.5 740.5
+                L198 740.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M68.5, 416 L68.5 785 Q68.5 789
+                72.5 789
+                L79 789 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 786 L87, 789 L79, 792 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 804 L105.5 833.5 Q105.5 837.5
+                109.5 837.5
+                L116 837.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 834.5 L124, 837.5 L116, 840.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 852.5 L142.5 882 Q142.5 886
+                146.5 886
+                L153 886 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 883 L161, 886 L153, 889 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 852.5 L142.5 930.5 Q142.5 934.5
+                146.5 934.5
+                L153 934.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 931.5 L161, 934.5 L153, 937.5 Z" 
+        fill="#333" />
+            </g>
+            </svg>
