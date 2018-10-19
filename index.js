@@ -10,7 +10,7 @@ const getSimilarDrug = (strength, form) => ({ name, drugs }) =>
 /**
  * atc2scd
  *
- * find Semantic Clinical Drug from atc code, strength, and form
+ * find a Semantic Clinical Drug from an incoming atc object containing atc code, strength, and form
  *
  * @param { object } - atc object {atc:string, strength: string, form: string}
  * @returns { object } - {atc: string, strength: string, form: string, rxcui: string, name: string, rating: number }
