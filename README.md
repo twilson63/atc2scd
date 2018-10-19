@@ -1,19 +1,19 @@
 # atc2scd
 
-This module takes an ATC Code, Strength and Form and uses a the Dice's coefficient algorithm to find the Semantic Clinical Drug: https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
+This module takes an ATC Code, Strength and Form and uses **[Dice's coefficient algorithm](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient)** to find the Semantic Clinical Drug:
 
 ## Usage
 
 `npm install atc2scd`
 
 ```js
-const atc2scd = require("atc2scd");
-atc2scd({
+const findDrug = require("atc2scd");
+findDrug({
   atc: "N03AX12",
   strength: "100 mg",
   form: "Capsule, hard"
-}).then(scd => {
-  assert.deepEquals(scd, {
+}).then(semanticClinicalDrug => {
+  assert.deepEquals(semanticClinicalDrug, {
     rxcui: "853201",
     name: "24 HR quetiapine 50 MG Extended Release Oral Tablet",
     synonym: "quetiapine 50 MG 24 HR Extended Release Oral Tablet",
